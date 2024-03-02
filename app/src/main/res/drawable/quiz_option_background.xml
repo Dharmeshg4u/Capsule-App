@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:attr/colorControlHighlight">
+    <item>
+        <layer-list>
+            <!-- Shadow -->
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="#e7d06b" />
+                    <corners android:radius="8dp" />
+                </shape>
+            </item>
+
+            <!-- Shape with rounded corners -->
+            <item android:bottom="2dp">
+                <shape android:shape="rectangle">
+                    <corners android:radius="8dp" />
+                    <solid android:color="#fefdc4" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</ripple>

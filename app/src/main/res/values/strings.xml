@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Capsule App</string>
+    <string name="home">Home</string>
+    <string name="check_ans">Check Answer</string>
+    <string name="quiz_desc">Quiz Desc</string>
+    <string name="quiz">Quiz</string>
+    <string name="notes_desc">Notes Desc</string>
+    <string name="notes">Notes</string>
+    <string name="up_next">Up Next:</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="your_score">Your Score</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="help">Help</string>
+</resources>
